@@ -55,7 +55,7 @@ Run the program and have where you would like to input into selected, you can ch
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
+<!-- CONTRIBUTORS -->
 ## Contributors
 
 Henry Ball
@@ -71,6 +71,7 @@ Alfie Wheeler
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/badge/Contributors-5-blue?style=for-the-badge
 [contributors-url]: https://github.com/xlol12x/Teamsoftware/graphs/contributors
 
@@ -89,8 +90,9 @@ Alfie Wheeler
 [ROS]: https://img.shields.io/badge/ROS-navy?style=for-the-badge&logo=ROS&logoColor=white
 [ROS-url]: https://www.ros.org/
 
-[windows]: https://img.shields.io/badge/Windows%20-%20%237FBA00?style=for-the-badge&logo=windows&logoColor=white
+[windows]: [https://img.shields.io/badge/Windows%20-%20%237FBA00?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)
 [windows-url]: https://www.microsoft.com/en-gb/windows
+
 [youtube]: https://img.shields.io/badge/View%20Demo-red?style=for-the-badge&logo=Youtube&logoColor=White
 [youtube-url]: https://youtu.be/sMdeBvYmKsk?si=4Sz1jXiuWLt7q8oO
 
