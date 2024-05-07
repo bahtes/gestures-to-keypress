@@ -37,8 +37,9 @@ A program used to convert gestures to kepresses or controller inputs. Designed t
 
 
 ## Installation
+[![linux][linux]][linux-url]
 
-For linux the below docker image is suggested, for windows view the windows branch.
+For Linux the below docker image is suggested, for Windows view the windows branch.
 
 [![docker][docker]][docker-url]
 
@@ -84,3 +85,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [mediapipe]: https://img.shields.io/badge/Mediapipe-1e90ff?style=for-the-badge&logoColor=White
 [mediapipe-url]: https://developers.google.com/mediapipe
+
+[linux]: https://img.shields.io/badge/Linux%20-%20%23000000?style=for-the-badge&logo=linux&logoColor=white
+[linux-url]: https://www.linux.org/
