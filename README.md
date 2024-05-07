@@ -38,6 +38,8 @@ A program used to convert gestures to kepresses or controller inputs. Designed t
 
 ## Installation
 
+[![windows][windows]][windows-url]
+
 For Windows it is recommended to clone this branch, download the requirements, see `requirements.txt` and run the python file `hand-signs.py`. For Linux see the main branch.
 
 
@@ -76,6 +78,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [ROS]: https://img.shields.io/badge/ROS-navy?style=for-the-badge&logo=ROS&logoColor=white
 [ROS-url]: https://www.ros.org/
 
+[windows]: https://img.shields.io/badge/Windows%20-%20%237FBA00?style=for-the-badge&logo=windows&logoColor=white
+[windows-url]: https://www.microsoft.com/en-gb/windows
 [youtube]: https://img.shields.io/badge/View%20Demo-red?style=for-the-badge&logo=Youtube&logoColor=White
 [youtube-url]: https://youtu.be/sMdeBvYmKsk?si=4Sz1jXiuWLt7q8oO
 
