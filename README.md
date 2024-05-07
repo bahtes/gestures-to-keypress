@@ -90,7 +90,7 @@ Alfie Wheeler
 [ROS]: https://img.shields.io/badge/ROS-navy?style=for-the-badge&logo=ROS&logoColor=white
 [ROS-url]: https://www.ros.org/
 
-[windows]: [https://img.shields.io/badge/Windows%20-%20%237FBA00?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)
+[windows]: https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white
 [windows-url]: https://www.microsoft.com/en-gb/windows
 
 [youtube]: https://img.shields.io/badge/View%20Demo-red?style=for-the-badge&logo=Youtube&logoColor=White
