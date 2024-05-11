@@ -47,7 +47,9 @@ For Linux the below docker image is suggested, for Windows view the windows bran
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Run the program and have where you would like to input into selected, you can change the keys pressed within the GUI, the start and stop button can pause and resume the inputs and camera.
+To run the gesture recognition program and have where you would like to input into selected, you can change the keys pressed within the GUI, the start and stop button can pause and resume the inputs and camera, commands needed in commands.txt.
+
+To run the spot simulation use the spot_teleop as a ROS Melodic package (champ_msgs package required), commands needed in commands.txt
 
 
 
